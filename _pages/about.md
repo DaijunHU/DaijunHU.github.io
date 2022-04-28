@@ -8,20 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in nus, doing research on computational modeling in additive manufacturing.
+I am currently a PhD student at the Department of Mechanical Engineering at National University of Singapore. Prior to joining NUS, I got Bachelor and Master degree at Beihang University. My research in NUS is to address the critical issues in metal additive manufacturing by computational modeling method, including residual stress, cracking, dislocation dynamics and so on. 
 
-A data-driven personal website
+Reseearch interests
 ======
-Like 
+1. Additive manufacturing
+2. Crystal plasticiy
+3. Fracture and fatigue
+4. Residual stress
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Daijun Hu, Nicolò Grilli, Lu Wang, Min Yang, Wentao Yan, [Microscale residual stresses in additively manufactured stainless steel: Computational simulation](https://www.sciencedirect.com/science/article/abs/pii/S0022509622000394), Journal of the Mechanics and Physics of Solids, Volume 161, 2022, 104822 
+
+Daijun Hu, Yingchun Shan, Tian He, Xiandong Liu, Xiaofei Wan, [Research on simulation method of impact resistance of composite wheels made of long glass fiber reinforced thermoplastic introducing anisotropic property](https://www.sciencedirect.com/science/article/abs/pii/S026382231930354X), Composite Structures, Volume 223, 2019, 110965.
+
+
+Nicolò Grilli, Daijun Hu, Yushu Dewen, Fan Chen, Wentao Yan, [Crystal plasticity model of residual stress in additive manufacturing using the element elimination and reactivation method](https://link.springer.com/article/10.1007/s00466-021-02116-z), Computational Mechanics, Volume 69, 825–845, 2022. 
 
 Site-wide configuration
 ------

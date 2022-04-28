@@ -13,9 +13,9 @@ Education
 ======
 * B.S. in Automobile Engineering, Beihang University, 2017
 * M.S. in Automobile Engineering, Beihang University, 2020
-* Ph.D in Mechanical Engineering, GitHub University, 2024 (expected)
+* Ph.D in Mechanical Engineering, National University of Singapore, 2024 (expected)
 
-Work experience
+Research experience
 ======
 * Summer 2019: Research Assistant
   * Github University
