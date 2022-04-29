@@ -8,10 +8,13 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Honors
 ======
+Innovation Scholarship of the Ministry of Industry and Information Technology (1%) 
+National Scholarship in 2019 
+The First Prize for scholarship of BUAA in 2018
+Outstanding Postgraduate Students of BUAA in 2019
 
 Heading 2
 ======

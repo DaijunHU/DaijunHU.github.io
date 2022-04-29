@@ -13,7 +13,7 @@ I am currently a PhD student at the Department of Mechanical Engineering at Nati
 Reseearch interests
 ======
 1. Additive manufacturing
-2. Crystal plasticiy
+2. Crystal plasticity
 3. Fracture and fatigue
 4. Residual stress
 
@@ -23,14 +23,19 @@ Daijun Hu, Nicolò Grilli, Lu Wang, Min Yang, Wentao Yan, [Microscale residual s
 
 Daijun Hu, Yingchun Shan, Tian He, Xiandong Liu, Xiaofei Wan, [Research on simulation method of impact resistance of composite wheels made of long glass fiber reinforced thermoplastic introducing anisotropic property](https://www.sciencedirect.com/science/article/abs/pii/S026382231930354X), Composite Structures, Volume 223, 2019, 110965.
 
+Daijun Hu, Yingchun Shan, Tian He, Xiandong Liu, [Analysis on effect of injection residual stress on impact resistance of composite wheel made of long glass fiber reinforced thermoplastic](https://www.tandfonline.com/doi/abs/10.1080/13588265.2020.1757583), International Journal of Crashworthiness 26 (5), 515-525
 
 Nicolò Grilli, Daijun Hu, Yushu Dewen, Fan Chen, Wentao Yan, [Crystal plasticity model of residual stress in additive manufacturing using the element elimination and reactivation method](https://link.springer.com/article/10.1007/s00466-021-02116-z), Computational Mechanics, Volume 69, 825–845, 2022. 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Daijun Hu, Yingchun Shan, Xiandong Liu, Weihao Chai, Xiaoyin Wang, [Uncertainty optimization design of vehicle wheel made of long glass fiber reinforced thermoplastic](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2018/V013T05A062/276683), ASME International Mechanical Engineering Congress and Exposition 52187, 2018.
 
-Create content & metadata
+Yuting Liu, Daijun Hu, Xiandong Liu, Yingchun Shan, Hongzhou Lu, [An Analysis on the Limit of Lightweighting Existedin Automotive Structural Design](http://www.qichegongcheng.com/EN/10.19562/j.chinasae.qcgc.2019.08.006), Automotive Engineering, Volume 41 No.8, 2019.
+
+
+
+
+
+Hobbies
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
