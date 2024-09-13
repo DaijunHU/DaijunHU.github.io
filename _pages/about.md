@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at the Department of Mechanical Engineering at National University of Singapore. Prior to joining NUS, I got Bachelor and Master degree at Beihang University. My research in NUS is to address the critical issues in metal additive manufacturing by computational modeling method, including residual stress, cracking, dislocation dynamics and so on. 
+I am currently a Research Fellow at the Department of Mechanical Engineering at National University of Singapore. Prior to joining NUS, I got Bachelor and Master degree at Beihang University. My research in NUS is to address the residual stress, cracking, dislocation dynamics and other critical mechanical proprety issues in metal additive manufacturing by computational modeling method. 
 
 Reseearch interests
 ======
@@ -16,16 +16,28 @@ Reseearch interests
 2. Crystal plasticity
 3. Fracture and fatigue
 4. Residual stress
+5. Dislocation dynamics
+
 
 Publications
 ======
 Daijun Hu, Nicolò Grilli, Lu Wang, Min Yang, Wentao Yan, [Microscale residual stresses in additively manufactured stainless steel: Computational simulation](https://www.sciencedirect.com/science/article/abs/pii/S0022509622000394), Journal of the Mechanics and Physics of Solids, Volume 161, 2022, 104822 
+
+Daijun Hu, Nicolò Grilli, Wentao Yan, [Dislocation structures formation induced by thermal stress in additive manufacturing: Multiscale crystal plasticity modeling of dislocation transport](https://www.sciencedirect.com/science/article/pii/S002250962300039X), Journal of the Mechanics and Physics of Solids, Volume 173, 2023, 105235
+
+Daijun Hu, Zixu Guo, Nicolò Grilli, Aloysius Tay, Zhen Lu, Wentao Yan, [Understanding the strain localization in additively manufactured materials: Micro-scale tensile tests and crystal plasticity modeling](https://www.sciencedirect.com/science/article/pii/S0749641924001086), International Journal of Plasticity, Volume 177, 2024, 103981  
+
+Shi Dai, Daijun Hu, Nicolò Grilli, Shaohua Zou, Zichen Deng, Wentao Yan, [Anisotropic and high-temperature deformation behavior of additively manufactured AlSi10Mg: Experiments and microscale modeling](https://www.sciencedirect.com/science/article/abs/pii/S2214860424003312), Additive Manufacturing, Volume 89, 2024, 104285 (co-first author)
 
 Daijun Hu, Yingchun Shan, Tian He, Xiandong Liu, Xiaofei Wan, [Research on simulation method of impact resistance of composite wheels made of long glass fiber reinforced thermoplastic introducing anisotropic property](https://www.sciencedirect.com/science/article/abs/pii/S026382231930354X), Composite Structures, Volume 223, 2019, 110965.
 
 Daijun Hu, Yingchun Shan, Tian He, Xiandong Liu, [Analysis on effect of injection residual stress on impact resistance of composite wheel made of long glass fiber reinforced thermoplastic](https://www.tandfonline.com/doi/abs/10.1080/13588265.2020.1757583), International Journal of Crashworthiness 26 (5), 515-525
 
 Nicolò Grilli, Daijun Hu, Yushu Dewen, Fan Chen, Wentao Yan, [Crystal plasticity model of residual stress in additive manufacturing using the element elimination and reactivation method](https://link.springer.com/article/10.1007/s00466-021-02116-z), Computational Mechanics, Volume 69, 825–845, 2022. 
+
+Zixu Guo, Ziyuan Song, Haohao Liu, Daijun Hu, Dawei Huang, Xiaojun Yan, Wentao Yan, [A dislocation-based damage-coupled constitutive model for single crystal superalloy: Unveiling the effect of secondary orientation on creep life of circular hole](https://www.sciencedirect.com/science/article/abs/pii/S0749641924000019), International Journal of Plasticity, Volume 173, 2024, 103874 
+
+Shiwei Wu, Hou Yi Chia, Tianlong Zhang, Yuefei Jia, Yongkun Mu, Qing Zhang, Yung Zhen Lek, Daijun Hu, Lei Fan, Wentao Yan, [A precipitation strengthened high entropy alloy with high (Al+ Ti) content for laser powder bed fusion: Synergizing in trinsic hot cracking resistance and ultrahigh strength](https://www.sciencedirect.com/science/article/abs/pii/S1359645423005232), Acta Materialia, Volume 258, 2023, 119193 
 
 Daijun Hu, Yingchun Shan, Xiandong Liu, Weihao Chai, Xiaoyin Wang, [Uncertainty optimization design of vehicle wheel made of long glass fiber reinforced thermoplastic](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2018/V013T05A062/276683), ASME International Mechanical Engineering Congress and Exposition 52187, 2018.
 
