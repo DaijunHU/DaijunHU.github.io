@@ -7,7 +7,7 @@ redirect_from:
   - /Contact.html
 ---
 
-If you are interested in collaboration, please email me your CV.
+If you are interested in collaboration, please email me.
 
 * E-mail: _hudaijun@u.nus.edu_
 * Google Scholar: [DaijunHu](https://scholar.google.com/citations?user=-HSEKcYAAAAJ&hl=zh-CN&oi=ao)
