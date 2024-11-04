@@ -7,7 +7,7 @@ redirect_from:
   - /Contact.html
 ---
 
-I am looking for highly motivated students and postdoctoral researchers to join my group. If you are interested, please email me your CV.
+If you are interested in collaboration, please email me your CV.
 
 * E-mail: _hudaijun@u.nus.edu_
 * Google Scholar: [DaijunHu](https://scholar.google.com/citations?user=-HSEKcYAAAAJ&hl=zh-CN&oi=ao)
