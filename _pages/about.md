@@ -24,8 +24,10 @@ Research interests
 7. Dislocation dynamics
 
 <br/><img src='/images/MSCAfigure1-0809.png'>
+
 **Overall framework for research interest**
 
 <br/><img src='/images/FrameworkNew3.png'>
+
 **Multi-scale multi-physics modeling framework**
 
