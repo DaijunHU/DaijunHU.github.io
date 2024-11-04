@@ -9,7 +9,7 @@ redirect_from:
 
 Working Experience
 --- 
-* Research Fellow, National Univerisity of Singapore (NUS), 2024-present
+* Research Fellow, National Univerisity of Singapore (NUS), 2024-present \\
 
 * Teaching assistant, National Univerisity of Singapore (NUS), 2021-2022
 * Intern, Institute of High Performance Computing (IHPC), A*STAR, 2022-2024
@@ -31,6 +31,8 @@ Selected Awards
 * Outstanding Graduate of Beijing, China, 2020
 * First prize scholarship, Beihang University, China 2018
 * Outstanding Graduate of Beihang University, China, 2017
+
+
 
 
 <br/><img src='/images/NIST-1PLACE.jpg'>
