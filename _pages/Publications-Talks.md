@@ -58,4 +58,4 @@ redirect_from:
 
 [2] International Solid Freeform Symposium (SFF), Texas, US, 2021, Online. (Online Presentation)
 
-[1] 15th World Congress on Computational Mechanics (WCCM-APCOM)}, Yokohama, Japan, 2022. (Online Presentation)
+[1] 15th World Congress on Computational Mechanics (WCCM-APCOM), Yokohama, Japan, 2022. (Online Presentation)
