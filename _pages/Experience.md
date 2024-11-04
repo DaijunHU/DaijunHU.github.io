@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Working Experience
----
+--- \\
 * Research Fellow, National Univerisity of Singapore (NUS), 2024-present
 * Teaching assistant, National Univerisity of Singapore (NUS), 2021-2022
 * Intern, Institute of High Performance Computing (IHPC), A*STAR, 2022-2024
