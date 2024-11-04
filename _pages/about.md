@@ -11,13 +11,13 @@ Hi I am Daijun!
 
 I am currently a Research Fellow at the Department of Mechanical Engineering at National University of Singapore, where I got my Ph.D. degree in September, 2024. Prior to joining NUS, I got Bachelor and Master degree at Beihang University. 
 
-My research in NUS is to address the residual stress, cracking, dislocation dynamics and other critical mechanical proprety issues in advanced manufaturing, especially for metal additive manufacturing by computational modeling method. 
+My research in NUS is to address the residual stress, cracking, dislocation dynamics and other critical mechanical proprety issues in advanced manufaturing, especially for metal additive manufacturing by computational modeling. 
 
 Research interests
 ======
 1. Advanced manufacturing
 2. Additive manufacturing
-3. Computational mechannics
+3. Computational mechanics
 4. Crystal plasticity
 5. Fracture and fatigue
 6. Residual stress
@@ -25,9 +25,9 @@ Research interests
 
 <br/><img src='/images/MSCAfigure1-0809.png'>
 
-**Overall framework for research interest**
+                   **Overall framework for research interest**
 
 <br/><img src='/images/FrameworkNew3.png'>
 
-**Multi-scale multi-physics modeling framework**
+                   **Multi-scale multi-physics modeling framework**
 
