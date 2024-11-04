@@ -15,12 +15,12 @@ Working Experience
 
 Education
 ---
-* Ph.D in Department of Mechanical Engineering, National University of Singapore (NUS), 2020-2024
+* Ph.D. in Department of Mechanical Engineering, National University of Singapore (NUS), 2020-2024
   * Supervisor: [Dr. Wentao Yan](https://cde.nus.edu.sg/me/staff/yan-wentao/) and [Asso Prof. Vincent Tan](https://cde.nus.edu.sg/me/staff/tan-vincent/)
 * M.S. in School of Transportation Science and Engineering, Beihang University (BUAA), 2017-2020
 * B.S. in School of Transportation Science and Engineering, Beihang University (BUAA), 2013-2017
 
-Selected awards
+Selected Awards
 ---
 * National Scholarship, China, 2019
 * 1st place of sub-continuum mesoscale modeling in AM-Bench 2023, NIST, 2023
@@ -33,4 +33,5 @@ Selected awards
 
 
 <br/><img src='/images/NIST-1PLACE.jpg'>
+
 **2022 NIST AM-Bench Simulation Challenges Awards**
