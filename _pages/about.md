@@ -1,4 +1,4 @@
----
+rch---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -23,9 +23,9 @@ Research interests
 6. Residual Stress
 7. Dislocation Dynamics
 
-<br/><img src='/images/MSCAfigure1-0809.png'>
+<br/><img src='/images/ResearchFlow.png'>
 
-                   **Overall framework for research interest**
+                   **Overall framework for my research interest**
 
 <br/><img src='/images/FrameworkNew3.png'>
 
