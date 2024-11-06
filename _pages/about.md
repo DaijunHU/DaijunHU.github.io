@@ -25,9 +25,9 @@ Research interests
 
 <br/><img src='/images/ResearchFlow.png'>
 
-                   **Overall framework for my research interest**
+**Overall framework for my research interest**
 
 <br/><img src='/images/FrameworkNew3.png'>
 
-                   **Multi-scale multi-physics modeling framework**
+**Multi-scale multi-physics modeling framework**
 
